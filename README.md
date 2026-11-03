@@ -1,6 +1,5 @@
 # Hey, I'm George! 👋
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&lines=AI+Researcher;Software+Engineer;Building+Cool+Things)
 
 
 
